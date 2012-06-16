@@ -19,6 +19,9 @@
   })();
 /* End of Font Loader */
 
+/* Slider */
+$('.carousel').carousel();
+
 
 
 
